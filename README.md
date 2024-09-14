@@ -1,4 +1,4 @@
-# Halo, Saya Ego Widiarto! 👋
+[# Halo, Saya Ego Widiarto! 👋
 
 Saya adalah mahasiswa semester 5 di Universitas Negeri Surabaya, Prodi Sistem Informasi. Saya memiliki minat besar dalam pengembangan web dan teknologi cloud. Berikut adalah beberapa statistik GitHub saya:
 
@@ -25,3 +25,4 @@ Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya j
 ---
 
 Feel free to reach out to me via LinkedIn or Email.
+](https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
