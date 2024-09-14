@@ -1,15 +1,6 @@
-[# Halo, Saya Ego Widiarto! 👋
-
-Saya adalah mahasiswa semester 5 di Universitas Negeri Surabaya, Prodi Sistem Informasi. Saya memiliki minat besar dalam pengembangan web dan teknologi cloud. Berikut adalah beberapa statistik GitHub saya:
-
-![GitHub Stats]((https://github-readme-stats-eight-theta.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true))
-# Halo, Saya Ego Widiarto! 👋
-
 Saya adalah mahasiswa semester 5 di Universitas Negeri Surabaya, Prodi Sistem Informasi. Saya memiliki minat besar dalam pengembangan web dan teknologi cloud. Berikut adalah beberapa statistik GitHub saya:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgoWidiarto)
-
-!Top Languages
 
 ## Tech Stack
 - **JavaScript** !JavaScript
