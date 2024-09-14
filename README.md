@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋 I'm Ego
+
+### Github Statistic
+<p align="left">
+  <a href="https://github.com/EgoWidiarto">
+    <img height="180em" src="https://github-readme-stats-theta.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-theta.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</p>
 
 <!--
 **EgoWidiarto/EgoWidiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
