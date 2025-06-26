@@ -3,10 +3,12 @@ Saya adalah mahasiswa semester 5 di Universitas Negeri Surabaya, Prodi Sistem In
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgoWidiarto)
 
 ## Tech Stack
-- **JavaScript** !JavaScript
-- **HTML** !HTML
-- **Bootstrap** !Bootstrap
-- **Tailwind CSS** !Tailwind CSS
+- **JavaScript** 
+- **HTML**
+- **Bootstrap**
+- **Tailwind CSS**
+- **PHP Laravel**
+- **Python**
 
 ## Tentang Saya
 Saya sedang mengembangkan berbagai proyek menggunakan JavaScript, HTML, Bootstrap, dan Tailwind CSS. Saya juga tertarik untuk belajar lebih dalam tentang teknologi cloud untuk pengembangan back-end.
