@@ -1,6 +1,6 @@
 Saya adalah mahasiswa semester 7 di Universitas Negeri Surabaya, Prodi Sistem Informasi. Saya memiliki minat besar dalam pengembangan web dan teknologi cloud. Berikut adalah beberapa statistik GitHub saya:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgoWidiarto)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgoWidiarto&ver=2)
 
 ## Tech Stack
 - **JavaScript** 
