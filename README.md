@@ -34,11 +34,10 @@
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=atom-one-dark&include_all_commits=true&count_private=true" alt="Ego Widiarto's GitHub Stats" />
+  <img src="https://github-readme-stats-rho-ten-98.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=atom-one-dark&include_all_commits=true&count_private=true" alt="Ego Widiarto's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=atom-one-dark" alt="Ego Widiarto's Top Languages" />
+  <img src="https://github-readme-stats-rho-ten-98.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=atom-one-dark" alt="Ego Widiarto's Top Languages" />
 </p>
-
 ---
 
 ### Let's Connect!
