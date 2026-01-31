@@ -2,7 +2,9 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Cloud+Computing+Enthusiast;Bangkit+2024+Distinction+Graduate)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Cloud+Computing+Enthusiast;Data+Science+%26+ML+Enthusiast;Bangkit+2024+Distinction+Graduate" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <b>Building scalable web applications & exploring data-driven solutions.</b>
@@ -11,7 +13,7 @@
   <a href="https://linkedin.com/in/ego-widiarto-4894a3230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:emailmu@gmail.com">
+  <a href="mailto:egowidiarto@gmail.com">
      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 
@@ -75,7 +77,8 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
