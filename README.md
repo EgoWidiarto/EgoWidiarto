@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Cloud+Computing+Enthusiast;Data+Science+%26+ML+Enthusiast;Bangkit+2024+Distinction+Graduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Cloud+Computing+Enthusiast;Data+Science+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -28,7 +28,6 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 - 🔭 I’m currently working on **Ascendemy** (EdTech Platform) & **Stock Prediction Thesis**.
 - 🌱 I’m currently exploring **Laravel 12, Filament, and Machine Learning Integration**.
 - 💼 Experience in **Full-Cycle Development**, **CI/CD Automation**, and **API Engineering**.
-- ⚡ Fun fact: I build logic for "War Rooms" in government apps but relax by playing RPGs.
 
 ---
 
