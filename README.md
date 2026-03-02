@@ -88,12 +88,11 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/EgoWidiarto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false" />
-  </a>
-  <a href="https://github.com/EgoWidiarto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats-git-main-sg5305-gmails-projects.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-git-main-sg5305-gmails-projects.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
