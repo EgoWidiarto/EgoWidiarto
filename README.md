@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ### 🚀 About Me
 
 I'm a final-year Information Systems student at **Universitas Negeri Surabaya (UNESA)** and a **Bangkit Academy 2024 Graduate (Distinction)**. I specialize in building complex web systems from scratch, handling everything from database architecture to frontend interactivity.
@@ -90,18 +88,18 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgoWidiarto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgoWidiarto&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/EgoWidiarto?style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/Profile%20Views-<INSERT_VIEW_COUNT>-blue?style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EgoWidiarto&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
@@ -121,7 +119,3 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
   <br>
   <b>💬 Feel free to reach out via LinkedIn or email</b>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EgoWidiarto&style=flat-square&color=blue" alt="Profile views" />
-</div>
