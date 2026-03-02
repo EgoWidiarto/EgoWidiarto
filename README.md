@@ -88,12 +88,13 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EgoWidiarto&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/repos/EgoWidiarto?theme=tokyonight" alt="Repos Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/top-langs/EgoWidiarto?theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/EgoWidiarto?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-15-blue?style=flat-square" alt="Repositories" />
+  </a>
+  <a href="https://github.com/EgoWidiarto?tab=followers">
+    <img src="https://img.shields.io/github/followers/EgoWidiarto?style=flat-square" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=EgoWidiarto&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -101,8 +102,14 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/EgoWidiarto?style=social" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=EgoWidiarto&color=blueviolet" alt="Profile Views" />
+  <h3>⭐ Top Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
+  </p>
 </div>
 
 ---
