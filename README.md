@@ -88,18 +88,21 @@ I'm a final-year Information Systems student at **Universitas Negeri Surabaya (U
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <a href="https://github.com/EgoWidiarto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false" />
+  </a>
+  <a href="https://github.com/EgoWidiarto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgoWidiarto&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EgoWidiarto&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/EgoWidiarto?style=social" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=EgoWidiarto&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EgoWidiarto&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
