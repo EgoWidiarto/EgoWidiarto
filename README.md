@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-Saya adalah **Full Stack Web Developer** yang sedang menempuh semester akhir **Sistem Informasi di Universitas Negeri Surabaya (UNESA)** dan alumni **Bangkit Academy 2024 (Distinction)**. Saya berfokus membangun sistem web yang scalable — dari arsitektur database hingga interaktivitas frontend.
+Saya adalah **Full Stack Web Developer**, alumni **Sistem Informasi Universitas Negeri Surabaya (UNESA)** dan **Bangkit Academy 2024 (Distinction)**. Saya berfokus membangun sistem web yang scalable — dari arsitektur database hingga interaktivitas frontend.
 
 - 🏢 **Bekerja di:** [LAMDIK](https://lamdik.or.id) — Lembaga Akreditasi Mandiri Kependidikan, membangun sistem akreditasi pendidikan nasional Indonesia
 - 🔭 **Sedang membangun:** Ascendemy (Platform EdTech CBT) & Skripsi Prediksi Harga Saham
@@ -85,26 +85,20 @@ Saya adalah **Full Stack Web Developer** yang sedang menempuh semester akhir **S
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EgoWidiarto&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=EgoWidiarto&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EgoWidiarto&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EgoWidiarto&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EgoWidiarto&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -115,7 +109,7 @@ Saya adalah **Full Stack Web Developer** yang sedang menempuh semester akhir **S
 | | |
 |:---|:---|
 | 🏢 **Work** | Developer @ [LAMDIK](https://lamdik.or.id) — Lembaga Akreditasi Mandiri Kependidikan |
-| 🎓 **Education** | UNESA Information Systems (Final Year) + Bangkit Academy 2024 (Distinction) |
+| 🎓 **Education** | S1 Sistem Informasi · UNESA (Lulus) + Bangkit Academy 2024 (Distinction) |
 | ⚡ **Focus** | Full-stack development · CI/CD · API Engineering |
 | 🌱 **Learning** | Laravel 12 · Filament · Advanced ML & Cloud Architecture |
 | 🌍 **Open to** | Remote opportunities & collaboration |
