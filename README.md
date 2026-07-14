@@ -84,12 +84,6 @@ Saya adalah **Full Stack Web Developer**, alumni **Sistem Informasi Universitas 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgoWidiarto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgoWidiarto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=EgoWidiarto&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
