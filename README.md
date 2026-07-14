@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ego-widiarto-4894a3230/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egowidiarto@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EgoWidiarto)
-[![LAMDIK](https://img.shields.io/badge/LAMDIK-1A73E8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://lamdik.or.id)
+[![LAMDIK](https://img.shields.io/badge/LAMDIK-1A73E8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2IDExLTZ6TTEgOXYxbDExIDYgMTEtNlY5bC0xMSA2eiIvPjwvc3ZnPg==&logoColor=white)](https://lamdik.or.id)
 
 <br/>
 
@@ -24,20 +24,13 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const ego = {
-  name:       "Ego Widiarto",
-  role:       "Full Stack Web Developer",
-  workplace:  "LAMDIK – Lembaga Akreditasi Mandiri Kependidikan 🏛️",
-  education:  "Information Systems · UNESA (Final Year)",
-  graduated:  "Bangkit Academy 2024 · Cloud Computing Path (Distinction)",
-  building:   ["Ascendemy (EdTech CBT Platform)", "Stock Price AI Prediction (Thesis)"],
-  learning:   ["Laravel 12", "Filament", "Machine Learning Integration"],
-  goal:       "Bridge technology and real-world problems 🌍",
-};
-```
+Saya adalah **Full Stack Web Developer** yang sedang menempuh semester akhir **Sistem Informasi di Universitas Negeri Surabaya (UNESA)** dan alumni **Bangkit Academy 2024 (Distinction)**. Saya berfokus membangun sistem web yang scalable — dari arsitektur database hingga interaktivitas frontend.
 
-> 🏢 Currently contributing at **[LAMDIK](https://lamdik.or.id)** — building accreditation-grade systems that power Indonesia's national education sector.
+- 🏢 **Bekerja di:** [LAMDIK](https://lamdik.or.id) — Lembaga Akreditasi Mandiri Kependidikan, membangun sistem akreditasi pendidikan nasional Indonesia
+- 🔭 **Sedang membangun:** Ascendemy (Platform EdTech CBT) & Skripsi Prediksi Harga Saham
+- 🌱 **Sedang belajar:** Laravel 12, Filament, dan Machine Learning Integration
+- 💼 **Keahlian:** Full-Cycle Development, CI/CD Automation, API Engineering
+- 🎯 **Tujuan:** Menciptakan solusi berdampak yang menjembatani teknologi dan masalah nyata
 
 ---
 
