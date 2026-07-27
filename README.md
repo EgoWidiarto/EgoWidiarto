@@ -27,8 +27,7 @@
 Saya adalah **Full Stack Web Developer**, alumni **Sistem Informasi Universitas Negeri Surabaya (UNESA)** dan **Bangkit Academy 2024 (Distinction)**. Saya berfokus membangun sistem web yang scalable — dari arsitektur database hingga interaktivitas frontend.
 
 - 🏢 **Bekerja di:** [LAMDIK](https://lamdik.or.id) — Lembaga Akreditasi Mandiri Kependidikan, membangun sistem akreditasi pendidikan nasional Indonesia
-- 🔭 **Sedang membangun:** Ascendemy (Platform EdTech CBT) & Skripsi Prediksi Harga Saham
-- 🌱 **Sedang belajar:** Laravel 12, Filament, dan Machine Learning Integration
+- 🌱 **Sedang belajar:** Next.JS, TypeScript, dan Integrasi AI
 - 💼 **Keahlian:** Full-Cycle Development, CI/CD Automation, API Engineering
 - 🎯 **Tujuan:** Menciptakan solusi berdampak yang menjembatani teknologi dan masalah nyata
 
